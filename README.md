@@ -4,6 +4,10 @@
 
 The Supermarket Project is a virtual simulation of a supermarket’s inventory management system. It’s designed to replicate the essential functions of tracking and maintaining a supermarket’s product stock. Users can interact with the system to add new products, update existing ones, remove items no longer in stock, and search or filter products based on specific criteria like price.
 
+For more detail you can check my Medium Blog Post Published on `Level Up Coding`
+https://medium.com/gitconnected/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596
+
+
 ## <ins>Development Approach</ins>
 
 The project development is divided into two phases:
